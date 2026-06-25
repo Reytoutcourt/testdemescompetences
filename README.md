@@ -1,2 +1,0 @@
-# testdemescompetences
-[TEST]
